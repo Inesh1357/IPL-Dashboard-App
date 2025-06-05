@@ -1,0 +1,105 @@
+/* Write your CSS here */
+@media screen and (min-width: 992px) {
+  .bg {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+    min-height: 100vh;
+    background-size: cover;
+    padding: 100px 10px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .bg {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.RCB {
+  background-color: #a4261d;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+.CSK {
+  background-color: #f7db00;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.KKR {
+  background-color: #5755a7;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.MI {
+  background-color: #13418b;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.KXP {
+  background-color: #d91c1f;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.RR {
+  background-color: #da237b;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.SH {
+  background-color: #f26d22;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.DC {
+  background-color: #4f5db0;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 60px 20px 60px;
+}
+
+.bg {
+  background-color: #4f5db0;
+  min-height: 104vh;
+  margin-top: -20px;
+  padding: 80px 90px 20px 90px;
+}
+
+.teamBannerUrl {
+  height: 300px;
+  width: 85vw;
+}
+
+.last {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.ul {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}

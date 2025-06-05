@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.last-bg {
+  background-color: #0f172a;
+  min-height: 100px;
+  width: 90vw;
+  border-radius: 20px;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.competing-team {
+  font-family: 'Bree Serif';
+  font-size: 50px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.p {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.data {
+  font-family: 'Bree Serif';
+  font-size: 35px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.jsk {
+  align-self: center;
+  margin-right: 30px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  align-self: center;
+}
+
+.oo {
+  margin-left: 130px;
+}

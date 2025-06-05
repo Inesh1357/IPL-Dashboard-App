@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.li-team {
+  min-height: 100px;
+  width: 450px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff;
+  background-color: transparent;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px;
+}
+
+.team-heading {
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: 900;
+  text-align: center;
+}
+
+.team-name {
+  height: 200px;
+  width: 120px;
+}
+
+.link-ipl {
+  text-decoration: none;
+}
